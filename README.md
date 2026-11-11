@@ -29,7 +29,7 @@ Estos enlaces siempre llevan a la versión más reciente. Las versiones anterior
 ## Instalar y activar
 
 1. Descarga el instalador de tu sistema.
-2. Instálalo. Los pasos con imágenes, incluidos los avisos de seguridad de la primera vez, están en [domingo-app.com.mx](https://domingo-app.com.mx).
+2. Instálalo. Los pasos con imágenes, incluidos los avisos de seguridad de la primera vez, están en [domingo-app.com.mx/instalar](https://domingo-app.com.mx/instalar).
 3. Abre Domingo y pega la clave de licencia que llegó a tu correo de compra.
 
 Domingo necesita una clave de licencia para usarse. Puedes comprarla en [domingo-app.com.mx](https://domingo-app.com.mx).
